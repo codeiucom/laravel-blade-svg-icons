@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CodeIU\\LaravelBladeSvgIcons\\SvgIconServiceProvider"
+                "CodeIU\\LaravelBladeSvgIcons\\SvgIconsServiceProvider"
             ],
             "aliases": {
             }
